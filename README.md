@@ -4,6 +4,7 @@ Hello!
 I'm Wan, A junior developer utilising JavaScript with Node.js and browsers as environments. 
 Feel free to have a look around my projects and their associated repositories and please checkout my portfolio webpage first!
 Some projects were done as part of some self learning with freeCodeCamp with others being with Northcoders.
+I'm passionate about building clean, purposeful code that will truly bring a difference to the user and dev experience.
 
 🔧 Tech Stack:
 JavaScript · Node.js · Express · PostgreSQL · HTML · CSS · Git · Jest · Supabase · Render
