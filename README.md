@@ -5,6 +5,9 @@ I'm Wan, A junior developer utilising JavaScript with Node.js and browsers as en
 Feel free to have a look around my projects and their associated repositories and please checkout my portfolio webpage first!
 Some projects were done as part of some self learning with freeCodeCamp with others being with Northcoders.
 
+🔧 Tech Stack:
+JavaScript · Node.js · Express · PostgreSQL · HTML · CSS · Git · Jest · Supabase · Render
+
 ## FAQs
 Q: What were you doing prior to the bootcamp and self learning?
 
@@ -22,3 +25,5 @@ A: Although the self directed learning using freeCodeCamp was great, I felt I wa
 What I felt I learnt from freeCodeCamp was mainly syntax of languages, but not so much in utilising software that I would and should know how to use on a daily bases such as VSCode.
 Now that I have enrolled upon the Northcoders bootcamp I can happily say I was right! 
 I've learnt a lot of technical skills off this bootcamp that I would have never gained through self-learning such as pair programming, hosting and using libraries that I never would have utilised by myself.
+
+📍Leeds, UK
