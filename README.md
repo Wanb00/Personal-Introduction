@@ -6,8 +6,15 @@ Feel free to have a look around my projects and their associated repositories an
 Some projects were done as part of some self learning with freeCodeCamp with others being with Northcoders.
 I'm passionate about building clean, purposeful code that will truly bring a difference to the user and dev experience.
 
-🔧 Tech Stack:
-JavaScript · Node.js · Express · PostgreSQL · HTML · CSS · Git · Jest · Supabase · Render
+## 🔧 My Tech Stack
+
+| **Category**       | **Technologies**                                                                 |
+|--------------------|----------------------------------------------------------------------------------|
+| **Languages**      | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) Express, React, Next.js |
+| **Testing**        | ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white) Supertest, TDD |
+| **Back-End**       | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) SQL, Database Migrations & Seeding, REST APIs |
+| **Front-End**      | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) Lighthouse, Accessibility Tools |
+| **Work Practices** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) Agile (SCRUM), Pair Programming |
 
 ## FAQs
 Q: What were you doing prior to the bootcamp and self learning?
